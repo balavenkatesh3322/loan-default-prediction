@@ -84,7 +84,7 @@ Below are the visualizations of the model's performance and the most important f
 
 **Top Most Important Features**
 
-![Feature Diagram](./img/conclusion.png)
+![Feature Diagram](./img/coclusion.png)
 
 ---
 
