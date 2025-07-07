@@ -80,11 +80,11 @@ Below are the visualizations of the model's performance and the most important f
 
 **ROC Curve**
 
-*(Placeholder for ROC Curve image)*
+![Diagram](./img/roc.png)
 
-**Top 20 Most Important Features**
+**Top Most Important Features**
 
-*(Placeholder for Feature Importance plot)*
+![Feature Diagram](./img/conclusion.png)
 
 ---
 
